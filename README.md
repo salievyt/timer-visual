@@ -94,9 +94,6 @@ MIT License — свободное использование
 **Сделано с ❤️ на Flutter**
 
 </div>
-
----
-
 <div align="center">
 
 **made by Sm1le❤️**
